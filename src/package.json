@@ -1,0 +1,20 @@
+{
+  "name": "@rockart/marketsale",
+  "version": "0.0.1",
+  "description": "MarketSale Smart Contract.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rockartai/marketsale.git"
+  },
+  "keywords": [
+    "rockart",
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "nft",
+    "opensea",
+    "blur"
+  ],
+  "license": "MIT"
+}
